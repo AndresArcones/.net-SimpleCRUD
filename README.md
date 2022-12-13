@@ -1,3 +1,3 @@
-# Practica-TEMA3-ADSI
+# .net-SimpleCRUD/
 
-* Codigo elaborado en visual studio usando asp.net 4.7 con ado.net.
+* coded in visual studio using asp.net 4.7 and ado.net.
